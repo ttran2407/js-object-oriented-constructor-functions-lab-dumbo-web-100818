@@ -1,6 +1,6 @@
 
 
-class Scooter = (){
+class Scooter = {
   contructor(year, color, model){
     this.year = year;
   this.color = color;
