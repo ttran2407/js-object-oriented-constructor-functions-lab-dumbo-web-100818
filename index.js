@@ -1,7 +1,11 @@
-Scooter = (year, color, model) => {
-  this.year = year;
+
+
+class Scooter = (){
+  contructor(year, color, model){
+    this.year = year;
   this.color = color;
   this.model = model
+  }
 }
 
 Driver = (name, age, experience) => {
